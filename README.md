@@ -1,4 +1,4 @@
-# Skylab Clone
+# Pague Fácil
 
 #### Projeto de clone UI utilizando NextJS e Design Systems.
 
